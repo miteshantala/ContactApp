@@ -9,5 +9,11 @@ ASP.NET WEB API,
 AngularJS,
 SQL Server (File)
 
+Featurs: 
+-3 tier architecture, so Business and Database can use with different UI eg windows or WCF etc
+-Error and message log (Fectory pattern)
+
+ 
+
 note:
-For time being i have not implemented login functionality, UI Error handling
+For time being i have not implemented login functionality, UI Error handling, Popup for edit contact, I could have use bootstrap for responsive UI

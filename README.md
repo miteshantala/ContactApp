@@ -11,7 +11,8 @@ SQL Server (File)
 
 Featurs: 
 -3 tier architecture, so Business and Database can use with different UI eg windows or WCF etc
--Error and message log (Fectory pattern)
+-Error and message log (Fectory pattern) can log the error and message in Database or File system (config setting not implemeted)
+-Database can easyly replace, not need to modify Business classes
 
  
 

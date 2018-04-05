@@ -10,4 +10,4 @@ AngularJS,
 SQL Server (File)
 
 note:
-For time being i have not implemented login functionality 
+For time being i have not implemented login functionality, UI Error handling

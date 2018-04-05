@@ -4,9 +4,9 @@
 -Install/Build all the packages(automatic from package config file)
 
 Following technologies are used:
-ASP.NET MVC
-ASP.NET WEB API
-AngularJS
+ASP.NET MVC,
+ASP.NET WEB API,
+AngularJS,
 SQL Server (File)
 
 note:
